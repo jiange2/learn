@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6a5f6d7-3c8f-4338-b269-4c1633e9662c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/spring-transaction/.gradle/" />
+    <ignored path="$PROJECT_DIR$/spring-transaction/build/" />
+    <ignored path="$PROJECT_DIR$/spring-transaction/out/" />
+    <ignored path="$PROJECT_DIR$/spring-basic/.gradle/" />
+    <ignored path="$PROJECT_DIR$/spring-basic/build/" />
+    <ignored path="$PROJECT_DIR$/spring-basic/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/LifecycleProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/SmartLifecycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="940">
+              <caret line="61" column="45" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+              <folding>
+                <element signature="e#5813#5814#0" expanded="true" />
+                <element signature="e#5840#5841#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/Lifecycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1060">
+              <caret line="67" column="35" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23940">
+              <caret line="1323" column="21" selection-start-line="1323" selection-start-column="16" selection-end-line="1323" selection-end-column="21" />
+              <folding>
+                <element signature="e#10514#10515#0" expanded="true" />
+                <element signature="e#10533#10534#0" expanded="true" />
+                <element signature="e#48679#48680#0" expanded="true" />
+                <element signature="e#48765#48766#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/support/DefaultLifecycleProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="140" column="65" selection-start-line="140" selection-start-column="48" selection-end-line="140" selection-end-column="65" />
+              <folding>
+                <element signature="e#10942#10943#0" expanded="true" />
+                <element signature="e#11013#11014#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.3.RELEASE/83d570bbf9311b4d4023bb70f853112c9fa010de/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12420">
+              <caret line="697" column="19" selection-start-line="697" selection-start-column="19" selection-end-line="697" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-basic/src/main/java/aware/AwareBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-basic/src/test/java/aware/AwareBeanTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="940">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id</find>
+      <find>id</find>
+      <find>setBeanName</find>
+      <find>beanName</find>
+      <find>ApplicationEventPublisherAware</find>
+      <find>getMessage</find>
+      <find>start</find>
+      <find>getLifecycleProcessor</find>
+      <find>lifecycleProcessor</find>
+      <find>start()</find>
+      <find>members</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring-transaction/src/main/java/dao/AddressDao.java" />
+        <option value="$PROJECT_DIR$/spring-transaction/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/spring-basic/build.gradle" />
+        <option value="$PROJECT_DIR$/spring-basic/src/test/java/main/Main.java" />
+        <option value="$PROJECT_DIR$/spring-basic/src/test/java/aware/AwareBeanTest.java" />
+        <option value="$PROJECT_DIR$/spring-basic/src/test/resources/app-context.xml" />
+        <option value="$PROJECT_DIR$/spring-basic/src/main/java/aware/AwareBean.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="135" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-learn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-learn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-basic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-learn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-basic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-learn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-basic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-learn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-basic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-learn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-basic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-learn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-basic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-learn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-basic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-learn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-basic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-learn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-basic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-learn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-transaction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545586584365" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="aware" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AwareBeanTest.test2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="com.jiange2.spring-basic.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AwareBeanTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.jiange2.spring-basic.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aware" />
+      <option name="MAIN_CLASS_NAME" value="aware.AwareBeanTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AwareBeanTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.jiange2.spring-basic.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aware" />
+      <option name="MAIN_CLASS_NAME" value="aware.AwareBeanTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AwareBeanTest.test2" />
+        <item itemvalue="JUnit.AwareBeanTest.test" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showDoc" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6a5f6d7-3c8f-4338-b269-4c1633e9662c" name="Default Changelist" comment="" />
+      <created>1545315059776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545315059776</updated>
+      <workItem from="1545315064625" duration="2240000" />
+      <workItem from="1545443465165" duration="13000" />
+      <workItem from="1545443545833" duration="458000" />
+      <workItem from="1545556928966" duration="15480000" />
+      <workItem from="1545585901712" duration="667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AwareBeanTest_test - 2018.12.23 at 19h 23m 54s.xml">
+      <configuration name="AwareBeanTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AwareBeanTest_test - 2018.12.23 at 19h 24m 12s.xml">
+      <configuration name="AwareBeanTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AwareBeanTest_test - 2018.12.23 at 19h 24m 19s.xml">
+      <configuration name="AwareBeanTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AwareBeanTest_test - 2018.12.23 at 19h 27m 36s.xml">
+      <configuration name="AwareBeanTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AwareBeanTest_test2 - 2018.12.23 at 19h 42m 29s.xml">
+      <configuration name="AwareBeanTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AwareBeanTest_test2 - 2018.12.23 at 19h 42m 43s.xml">
+      <configuration name="AwareBeanTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AwareBeanTest_test2 - 2018.12.23 at 22h 49m 52s.xml">
+      <configuration name="AwareBeanTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AwareBeanTest_test2 - 2018.12.23 at 22h 50m 08s.xml">
+      <configuration name="AwareBeanTest.test2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18858000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="-7" width="1475" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23994355" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32931727" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892906" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32931727" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32931727" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="15" weight="0.32931727" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2032463" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-transaction/src/main/java/dao/AddressDao.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.1.3.RELEASE/58dd5825c7eea57c0c07f2492b0921d27dab3d44/spring-jdbc-5.1.3.RELEASE-sources.jar!/org/springframework/jdbc/datasource/ConnectionHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2048">
+          <caret line="158" column="22" selection-start-line="158" selection-start-column="22" selection-end-line="158" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/ResourceHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronizationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1744">
+          <caret line="137" column="25" selection-start-line="137" selection-start-column="25" selection-end-line="137" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="16" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-transaction/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-basic/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="16" column="90" selection-start-line="16" selection-start-column="90" selection-end-line="16" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.context.support.ClassPathXmlApplicationContext">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.context.support.ClassPathXmlApplicationContext</OriginalElement>
+          <nodes>
+            <node x="373.0" y="81.0">org.springframework.beans.factory.HierarchicalBeanFactory</node>
+            <node x="1243.75" y="0.0">org.springframework.core.io.ResourceLoader</node>
+            <node x="460.75" y="577.0">org.springframework.context.support.AbstractXmlApplicationContext</node>
+            <node x="347.6333333333333" y="334.0">org.springframework.beans.factory.Aware</node>
+            <node x="0.0" y="81.0">java.lang.AutoCloseable</node>
+            <node x="672.9466666666667" y="172.0">org.springframework.context.ApplicationContext</node>
+            <node x="483.1333333333333" y="415.0">org.springframework.beans.factory.InitializingBean</node>
+            <node x="401.41" y="172.0">org.springframework.context.Lifecycle</node>
+            <node x="418.25" y="496.0">org.springframework.context.support.AbstractRefreshableConfigApplicationContext</node>
+            <node x="173.5" y="0.0">java.lang.FunctionalInterface</node>
+            <node x="671.1333333333333" y="334.0">org.springframework.context.support.AbstractApplicationContext</node>
+            <node x="1328.0" y="81.0">org.springframework.core.io.DefaultResourceLoader</node>
+            <node x="14.5" y="172.0">java.io.Closeable</node>
+            <node x="318.79166666666663" y="253.0">org.springframework.context.ConfigurableApplicationContext</node>
+            <node x="505.5" y="0.0">org.springframework.beans.factory.BeanFactory</node>
+            <node x="765.0" y="81.0">org.springframework.core.env.EnvironmentCapable</node>
+            <node x="153.0" y="81.0">org.springframework.context.ApplicationEventPublisher</node>
+            <node x="458.25" y="658.0">org.springframework.context.support.ClassPathXmlApplicationContext</node>
+            <node x="1113.0" y="81.0">org.springframework.core.io.support.ResourcePatternResolver</node>
+            <node x="316.1333333333333" y="415.0">org.springframework.beans.factory.BeanNameAware</node>
+            <node x="637.1333333333333" y="415.0">org.springframework.context.support.AbstractRefreshableApplicationContext</node>
+            <node x="581.0" y="81.0">org.springframework.beans.factory.ListableBeanFactory</node>
+            <node x="953.0" y="81.0">org.springframework.context.MessageSource</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.core.env.EnvironmentCapable">
+              <point x="13.416666666666629" y="-15.5" />
+              <point x="766.8633333333332" y="132.0" />
+              <point x="849.0" y="132.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractXmlApplicationContext" target="org.springframework.context.support.AbstractRefreshableConfigApplicationContext">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractRefreshableConfigApplicationContext" target="org.springframework.beans.factory.BeanNameAware">
+              <point x="-106.0" y="-15.5" />
+              <point x="471.25" y="471.0" />
+              <point x="389.6333333333333" y="471.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractRefreshableConfigApplicationContext" target="org.springframework.context.support.AbstractRefreshableApplicationContext">
+              <point x="106.0" y="-15.5" />
+              <point x="683.25" y="471.0" />
+              <point x="776.6333333333333" y="471.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.core.io.support.ResourcePatternResolver" target="org.springframework.core.io.ResourceLoader">
+              <point x="0.0" y="-15.5" />
+              <point x="1210.5" y="56.0" />
+              <point x="1279.5" y="56.0" />
+              <point x="-35.75" y="15.5" />
+            </edge>
+            <edge source="org.springframework.beans.factory.HierarchicalBeanFactory" target="org.springframework.beans.factory.BeanFactory">
+              <point x="0.0" y="-15.5" />
+              <point x="467.0" y="56.0" />
+              <point x="535.25" y="56.0" />
+              <point x="-29.75" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractApplicationContext" target="org.springframework.core.io.DefaultResourceLoader">
+              <point x="52.75" y="-15.5" />
+              <point x="829.3833333333333" y="309.0" />
+              <point x="1420.0" y="309.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractRefreshableConfigApplicationContext" target="org.springframework.beans.factory.InitializingBean">
+              <point x="0.0" y="-15.5" />
+              <point x="577.25" y="471.0" />
+              <point x="550.1333333333333" y="471.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.beans.factory.ListableBeanFactory" target="org.springframework.beans.factory.BeanFactory">
+              <point x="0.0" y="-15.5" />
+              <point x="663.0" y="56.0" />
+              <point x="594.75" y="56.0" />
+              <point x="29.75" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractRefreshableApplicationContext" target="org.springframework.context.support.AbstractApplicationContext">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.core.io.DefaultResourceLoader" target="org.springframework.core.io.ResourceLoader">
+              <point x="0.0" y="-15.5" />
+              <point x="1420.0" y="56.0" />
+              <point x="1351.0" y="56.0" />
+              <point x="35.75" y="15.5" />
+            </edge>
+            <edge source="org.springframework.beans.factory.BeanNameAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.ConfigurableApplicationContext" target="org.springframework.context.ApplicationContext">
+              <point x="78.66666666666663" y="-15.5" />
+              <point x="515.4583333333333" y="228.0" />
+              <point x="753.4466666666667" y="228.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.beans.factory.HierarchicalBeanFactory">
+              <point x="-40.25" y="-15.5" />
+              <point x="713.1966666666667" y="142.0" />
+              <point x="467.0" y="142.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.ConfigurableApplicationContext" target="java.io.Closeable">
+              <point x="-78.66666666666669" y="-15.5" />
+              <point x="358.12499999999994" y="228.0" />
+              <point x="66.5" y="228.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.context.ApplicationEventPublisher">
+              <point x="-67.08333333333331" y="-15.5" />
+              <point x="686.3633333333333" y="152.0" />
+              <point x="253.0" y="152.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.beans.factory.ListableBeanFactory">
+              <point x="-13.416666666666629" y="-15.5" />
+              <point x="740.03" y="132.0" />
+              <point x="663.0" y="132.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.context.MessageSource">
+              <point x="40.25" y="-15.5" />
+              <point x="793.6966666666667" y="142.0" />
+              <point x="1023.0" y="142.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationEventPublisher" target="java.lang.FunctionalInterface">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.support.ClassPathXmlApplicationContext" target="org.springframework.context.support.AbstractXmlApplicationContext">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.core.io.support.ResourcePatternResolver">
+              <point x="67.08333333333337" y="-15.5" />
+              <point x="820.53" y="152.0" />
+              <point x="1210.5" y="152.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.ConfigurableApplicationContext" target="org.springframework.context.Lifecycle">
+              <point x="0.0" y="-15.5" />
+              <point x="436.79166666666663" y="228.0" />
+              <point x="450.41" y="228.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractApplicationContext" target="org.springframework.context.ConfigurableApplicationContext">
+              <point x="-52.75" y="-15.5" />
+              <point x="723.8833333333333" y="309.0" />
+              <point x="436.79166666666663" y="309.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8016971279373368" x="279.0" y="113.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.3.RELEASE/36ad145855655578be2bd01de15823c218cbbd69/spring-core-5.1.3.RELEASE-sources.jar!/org/springframework/util/ObjectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="607" column="25" selection-start-line="607" selection-start-column="25" selection-end-line="607" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.3.RELEASE/83d570bbf9311b4d4023bb70f853112c9fa010de/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactoryUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="114" column="25" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.3.RELEASE/83d570bbf9311b4d4023bb70f853112c9fa010de/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/config/FieldRetrievingFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="158" column="27" selection-start-line="158" selection-start-column="19" selection-end-line="158" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.3.RELEASE/83d570bbf9311b4d4023bb70f853112c9fa010de/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-basic/src/test/java/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.3.RELEASE/83d570bbf9311b4d4023bb70f853112c9fa010de/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/Aware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.3.RELEASE/83d570bbf9311b4d4023bb70f853112c9fa010de/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactoryAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.3.RELEASE/83d570bbf9311b4d4023bb70f853112c9fa010de/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/BeanNameAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/ApplicationEventPublisherAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/ApplicationContextAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.3.RELEASE/83d570bbf9311b4d4023bb70f853112c9fa010de/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/InitializingBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-basic/src/test/resources/app-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/ApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/MessageSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/Phased.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="26" selection-start-line="26" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractXmlApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/ConfigurableApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/LifecycleProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/SmartLifecycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="61" column="45" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+          <folding>
+            <element signature="e#5813#5814#0" expanded="true" />
+            <element signature="e#5840#5841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/Lifecycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="67" column="35" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23940">
+          <caret line="1323" column="21" selection-start-line="1323" selection-start-column="16" selection-end-line="1323" selection-end-column="21" />
+          <folding>
+            <element signature="e#10514#10515#0" expanded="true" />
+            <element signature="e#10533#10534#0" expanded="true" />
+            <element signature="e#48679#48680#0" expanded="true" />
+            <element signature="e#48765#48766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.3.RELEASE/83d570bbf9311b4d4023bb70f853112c9fa010de/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12420">
+          <caret line="697" column="19" selection-start-line="697" selection-start-column="19" selection-end-line="697" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-basic/src/main/java/aware/AwareBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-basic/src/test/java/aware/AwareBeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.3.RELEASE/c5ee0067915517d1660805a11c154e7537da8ea2/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/support/DefaultLifecycleProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="140" column="65" selection-start-line="140" selection-start-column="48" selection-end-line="140" selection-end-column="65" />
+          <folding>
+            <element signature="e#10942#10943#0" expanded="true" />
+            <element signature="e#11013#11014#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

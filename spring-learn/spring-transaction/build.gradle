@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'com.jiange2'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.springframework', name: 'spring-jdbc', version: '5.1.3.RELEASE'
+    compile group: 'org.springframework', name: 'spring-tx', version: '5.1.3.RELEASE'
+}
