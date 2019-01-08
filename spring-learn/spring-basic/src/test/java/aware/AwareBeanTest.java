@@ -23,4 +23,12 @@ public class AwareBeanTest {
         AwareBean awareBean = appContext.getBean(AwareBean.class);
         System.out.println(awareBean.getApplicationContext());
     }
+
+    @Test
+    public void testAutoClosable(){
+        try (ClassPathXmlApplicationContext appContext =
+                     new ClassPathXmlApplicationContext("classpath:app-context.xml");){
+            System.out.println("test");
+        }
+    }
 }

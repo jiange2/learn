@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean id="awareBeanName" class="aware.AwareBean" init-method="init"/>
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+    <bean id="awareBeanName" class="aware.AwareBean"/>
+    <bean id="listener" class="appcontext.eventlistener.TestEventListener"/>
+
+    <bean id="taskExecutor" class="org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor">
+        <property name="rejectedExecutionHandler">
+            <bean class="java.util.concurrent.ThreadPoolExecutor$CallerRunsPolicy"/>
+        </property>
+    </bean>
+
+    <bean id="applicationEventMulticaster" class="org.springframework.context.event.SimpleApplicationEventMulticaster">
+        <property name="taskExecutor" ref="taskExecutor"/>
+    </bean>
+
+    <bean class="appcontext.profile.Profile">
+        <property name="test" value="${test.property}"/>
+    </bean>
+
+    <context:property-placeholder ignore-unresolvable="true"
+            location="classpath*:production/*.properties" />
+
+    <!-- 测试环境配置文件 -->
+    <beans profile="test">
+        <context:property-placeholder
+                location="classpath*:test/*.properties" />
+    </beans>
+
+    <!-- 生产环境配置文件 -->
+    <beans profile="production">
+        <context:property-placeholder
+                location="classpath*:production/*.properties" />
+    </beans>
+
+
 </beans>
